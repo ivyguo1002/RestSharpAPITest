@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\RestSharpAPITest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Administrator\source\repos\RestSharpAPITest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Administrator\source\repos\RestSharpAPITest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Administrator\source\repos\RestSharpAPITest\bin\Debug\netcoreapp2.2\RestSharpAPITest.deps.json
+C:\Users\Administrator\source\repos\RestSharpAPITest\bin\Debug\netcoreapp2.2\RestSharpAPITest.runtimeconfig.json
+C:\Users\Administrator\source\repos\RestSharpAPITest\bin\Debug\netcoreapp2.2\RestSharpAPITest.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\RestSharpAPITest\bin\Debug\netcoreapp2.2\RestSharpAPITest.dll
+C:\Users\Administrator\source\repos\RestSharpAPITest\obj\Debug\netcoreapp2.2\RestSharpAPITest.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\RestSharpAPITest\obj\Debug\netcoreapp2.2\RestSharpAPITest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RestSharpAPITest\obj\Debug\netcoreapp2.2\RestSharpAPITest.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\RestSharpAPITest\obj\Debug\netcoreapp2.2\RestSharpAPITest.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\RestSharpAPITest\bin\Debug\netcoreapp2.2\RestSharpAPITest.pdb
+C:\Users\Administrator\source\repos\RestSharpAPITest\obj\Debug\netcoreapp2.2\RestSharpAPITest.dll
+C:\Users\Administrator\source\repos\RestSharpAPITest\obj\Debug\netcoreapp2.2\RestSharpAPITest.pdb
